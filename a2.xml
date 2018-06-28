@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!-- Include your name in this opening and also the closing tag 
+		 Take out all text in opening and closing tag and include just your username -->
+<waqian>
+	<title>A2-Movies</title>
+	<name studentNo="991432584" program="Software Development and Network Engineering">Qian Wang</name>
+	<!-- Include your Sheridan Student number in the studentNumber attribute-->
+		<movie id='m1'>
+			<movieName img='img/Incredibles2.jpg'>Incredibles2</movieName>
+			<plot>Everyone's favorite family of superheroes is back in "Incredibles 2"--but this time Helen (voice of Holly Hunter) is in the spotlight, leaving Bob (voice of Craig T. Nelson) at home with Violet (voice of Sarah Vowell) and Dash (voice of Huck Milner) to navigate the day-to-day heroics of "normal" life. It's a tough transistion for everyone, made tougher by the fact that the family is still unaware of baby Jack-Jack's emerging superpowers. When a new villain hatches a brilliant and dangerous plot, the family and Frozone (voice of Samuel L. Jackson) must find a way to work together again--which is easier said than done, even when they're all Incredible.</plot>
+			<cast>Craig T. Nelson as Bob Parr </cast>
+			<cast>Holly Hunter as Helen Parr  </cast>	
+			<cast>Sarah Vowell as Violet Parr </cast>
+				<review id='r1'>The Incredibles 2 is an undeniable triumph, but it is also so keenly aware that it becomes exhausting.</review>
+				<review id='r2'>Once Michael Giacchino's score -- his best and most excitable -- was up and running, I was happy and hooked.</review>
+				<review id='r3'>It's really fun, and it moves really well. It was paced beautifully and is gorgeously detailed...Get there early and see everything. </review>
+			<imdb>https://www.imdb.com/title/tt3606756/?ref_=nv_sr_1</imdb>
+			<theater>https://www.cineplex.com/Movie/incredibles-2</theater>
+		</movie>
+		<movie id='m2'>
+			<movieName img='img/TAG.jpg'>TAG</movieName>
+			<plot>For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they've been playing since the first grade--risking their necks, their jobs and their relationships to take each other down with the battle cry "You're It!" This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they're coming... and he's ready. Based on a true story, "Tag" shows how far some guys will go to be the last man standing.</plot>
+			<cast>Ed Helms as Hogan Malloy </cast>
+			<cast>Hannibal Buress as Kevin Sable </cast>	
+			<cast>Jon Hamm as Bob Callahan</cast>
+			<review id='r1'>Based on a true story about fortysomething manchildren still playing tag, this bro-bonding comedy is all over the place, but fueled by a terrific cast and a partytime atmosphere that might be just what you're looking for on a hot summer night. </review>
+				<review id='r2'>The cast is talented and game. But the game itself is grotesque, largely because of the characters they're forced to play. </review>
+				<review id='r3'>Another symptom of a long cinematic Hangover, complete with Ed Helms in the lead.</review>
+			
+			<imdb>https://www.imdb.com/title/tt2854926/?ref_=nv_sr_1</imdb>
+			<theater>https://www.cineplex.com/Movie/tag-2018</theater>
+		</movie>
+		<movie id='m3'>
+			<movieName img='img/SOLO.jpg'>SOLO</movieName>
+			<plot>Board the Millennium Falcon and journey to a galaxy far, far away in Solo: A Star Wars Story, an all-new adventure with the most beloved scoundrel in the galaxy. Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian, in a journey that will set the course of one of the Star Wars saga's most unlikely heroes.</plot>
+			<cast>Alden Ehrenreich as Han Solo  </cast>
+			<cast>Joonas Suotamo as Chewbacca </cast>	
+			<cast>Woody Harrelson as Beckett </cast>
+				<review id='r1'>Luckily, just as tempers were starting to flare, Solo: A Star Wars Story has arrived to save the day.</review>
+				<review id='r2'>The tropes and twists of shamelessly recycled clichés are presented throughout with an absurd earnestness.</review>
+				<review id='r3'>Of all the Star Wars-themed movies, this one is the closest to a Saturday afternoon serial/western. Don't expect more than that.</review>
+			<imdb>https://www.imdb.com/title/tt3778644/?ref_=fn_al_tt_1</imdb>
+			<theater>https://www.cineplex.com/Movie/solo-a-star-wars-story</theater>
+		</movie>
+</waqian>
+
+<!-- all the movie information is from
+https://www.rottentomatoes.com/m/incredibles_2 
+https://www.rottentomatoes.com/m/tag_2018
+https://www.rottentomatoes.com/m/solo_a_star_wars_story
+Accessed 20 Jun. 2018>
+-->
